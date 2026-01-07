@@ -1,7 +1,7 @@
 {
   "business": {
     "name": "richard school ndis service for autistic",
-    "tagline": "Melbourne's Premier Ndis - Where Quality Meets Excellence",
+    "tagline": "Melbourne's Premier NDIS - Where Quality Meets Excellence",
     "phone": "0490348227",
     "email": "rfan27788@gmail.com",
     "address": "123 Main Street, Melbourne",
@@ -10,7 +10,7 @@
     "state": "VIC",
     "postcode": "3000",
     "country": "Australia",
-    "service": "Ndis",
+    "service": "NDIS",
     "serviceSlug": "ndis",
     "abn": "",
     "established": 2020,
