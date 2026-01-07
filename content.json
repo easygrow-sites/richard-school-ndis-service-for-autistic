@@ -1,19 +1,22 @@
 {
   "business": {
-    "name": "richard school ndis service for autistic ",
-    "tagline": "Empowering autistic individuals through specialized NDIS support services tailored for growth, independence and meaningful community participation",
+    "name": "richard school ndis service for autistic",
+    "tagline": "Melbourne's Premier Ndis - Where Quality Meets Excellence",
     "phone": "0490348227",
     "email": "rfan27788@gmail.com",
     "address": "123 Main Street, Melbourne",
     "suburb": "Melbourne",
     "city": "Melbourne",
-    "state": "QLD",
-    "postcode": "4000",
+    "state": "VIC",
+    "postcode": "3000",
     "country": "Australia",
     "service": "Ndis",
     "serviceSlug": "ndis",
-    "abn": "12 345 678 901",
-    "established": 2021,
+    "established": 2020,
+    "geo": {
+      "latitude": -37.8136,
+      "longitude": 144.9631
+    },
     "openingHours": {
       "monday": "9:00 AM - 5:00 PM",
       "tuesday": "9:00 AM - 5:00 PM",
@@ -31,77 +34,147 @@
   },
   "services": [
     {
-      "title": "Autism-Specific Support Work",
-      "slug": "autism-specific-support-work",
-      "shortDescription": "Our qualified support workers provide personalized assistance with daily living activities, social s...",
-      "description": "Our qualified support workers provide personalized assistance with daily living activities, social skills development, and community access specifically designed for autistic individuals. We focus on building independence while respecting sensory needs and communication preferences. Our team uses evidence-based approaches to support your unique goals and routines.",
-      "price": "From $56.48/hour",
-      "duration": "Varies",
-      "icon": "star",
-      "features": [],
-      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop"
+      "title": "Daily Living Support",
+      "slug": "daily-living-support",
+      "shortDescription": "Assistance with everyday activities and personal care",
+      "description": "Our compassionate support workers help participants with daily living activities including personal care, meal preparation, household tasks, and maintaining independence in their home. We focus on building skills and confidence while providing the support needed to live life on your terms.",
+      "price": "NDIS Funded",
+      "duration": "Flexible hours",
+      "icon": "home",
+      "features": [
+        "Personal care assistance",
+        "Meal preparation",
+        "Household tasks",
+        "Skill building",
+        "Independence focused"
+      ],
+      "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=800&h=600&fit=crop"
     },
     {
-      "title": "Specialized Therapy Services",
-      "slug": "specialized-therapy-services",
-      "shortDescription": "Comprehensive therapy programs including occupational therapy, speech pathology, and behavioral inte...",
-      "description": "Comprehensive therapy programs including occupational therapy, speech pathology, and behavioral intervention delivered by autism-specialized practitioners. Sessions are tailored to individual sensory profiles and learning styles to maximize therapeutic outcomes. We work collaboratively with participants and families to achieve meaningful progress.",
-      "price": "From $232.99/hour",
-      "duration": "Varies",
-      "icon": "star",
-      "features": [],
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+      "title": "Community Participation",
+      "slug": "community-participation",
+      "shortDescription": "Support to engage with your community",
+      "description": "We support participants to access and engage with their local community. Whether it's attending social activities, pursuing hobbies, shopping, or accessing community facilities, our team provides the support needed to build connections and participate fully in community life.",
+      "price": "NDIS Funded",
+      "duration": "Flexible hours",
+      "icon": "users",
+      "features": [
+        "Social activities",
+        "Community access",
+        "Hobby support",
+        "Transportation assistance",
+        "Social skill development"
+      ],
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800&h=600&fit=crop"
     },
     {
-      "title": "Community Access & Social Skills Programs",
-      "slug": "community-access-social-skills-programs",
-      "shortDescription": "Structured community participation programs that build social confidence and life skills in real-wor...",
-      "description": "Structured community participation programs that build social confidence and life skills in real-world settings. Our programs include group activities, community outings, and peer support opportunities designed specifically for autistic participants. We create safe, supportive environments that encourage social connection and personal growth.",
-      "price": "From $56.48/hour",
+      "title": "Respite Care",
+      "slug": "respite-care",
+      "shortDescription": "Short-term support for participants and carers",
+      "description": "Quality respite care providing a break for primary carers while ensuring participants receive excellent support. Available in-home or in community settings, our respite services are flexible and tailored to individual needs and preferences.",
+      "price": "NDIS Funded",
       "duration": "Varies",
-      "icon": "star",
-      "features": [],
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
+      "icon": "heart",
+      "features": [
+        "In-home respite",
+        "Community outings",
+        "Overnight options",
+        "Carer support",
+        "Flexible scheduling"
+      ],
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&h=600&fit=crop"
     },
     {
-      "title": "Plan Management Services",
-      "slug": "plan-management-services",
-      "shortDescription": "Professional NDIS plan management that handles all financial administration, provider payments, and ...",
-      "description": "Professional NDIS plan management that handles all financial administration, provider payments, and budget monitoring for your supports. We provide regular budget reports and work closely with you to maximize your plan's value. Our team ensures compliance with NDIS requirements while giving you choice and control over your services.",
-      "price": "From $79.19/hour",
-      "duration": "Varies",
-      "icon": "star",
-      "features": [],
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=600&fit=crop"
+      "title": "Therapy Services",
+      "slug": "therapy-services",
+      "shortDescription": "Allied health and therapeutic support",
+      "description": "Access qualified therapists including occupational therapists, speech pathologists, physiotherapists, and psychologists. Our allied health team works collaboratively to help participants achieve their therapy goals and improve quality of life.",
+      "price": "NDIS Funded",
+      "duration": "Session-based",
+      "icon": "activity",
+      "features": [
+        "Occupational therapy",
+        "Speech pathology",
+        "Physiotherapy",
+        "Psychology",
+        "Behaviour support"
+      ],
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=600&fit=crop"
     },
     {
-      "title": "Assistive Technology Assessment & Support",
-      "slug": "assistive-technology-assessment-support",
-      "shortDescription": "Comprehensive assessment and implementation of assistive technologies that enhance communication, in...",
-      "description": "Comprehensive assessment and implementation of assistive technologies that enhance communication, independence, and quality of life for autistic individuals. We provide ongoing training and support to ensure successful adoption of recommended technologies. Our assessments consider individual needs, preferences, and environmental factors.",
-      "price": "Quote-based pricing",
-      "duration": "Varies",
-      "icon": "star",
-      "features": [],
-      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop"
+      "title": "Plan Management",
+      "slug": "plan-management",
+      "shortDescription": "Financial management of your NDIS plan",
+      "description": "Take the stress out of managing your NDIS funding with our plan management services. We handle invoices, payments, and financial tracking while keeping you informed with regular statements and reports. Focus on your goals while we handle the paperwork.",
+      "price": "NDIS Funded",
+      "duration": "Ongoing",
+      "icon": "clipboard",
+      "features": [
+        "Invoice processing",
+        "Provider payments",
+        "Budget tracking",
+        "Regular statements",
+        "Dedicated contact"
+      ],
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop"
     },
     {
-      "title": "Capacity Building & Life Skills Training",
-      "slug": "capacity-building-life-skills-training",
-      "shortDescription": "Intensive skill development programs focusing on independent living, employment readiness, and perso...",
-      "description": "Intensive skill development programs focusing on independent living, employment readiness, and personal development goals. Our structured approach breaks down complex skills into manageable steps, using visual supports and clear routines. We celebrate every achievement while building toward greater autonomy and self-determination.",
-      "price": "From $62.13/hour",
-      "duration": "Varies",
-      "icon": "star",
-      "features": [],
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+      "title": "Support Coordination",
+      "slug": "support-coordination",
+      "shortDescription": "Help navigating and implementing your NDIS plan",
+      "description": "Our experienced support coordinators help you understand your NDIS plan, connect with quality service providers, and ensure you're getting the most from your funding. We work alongside you to build your capacity and achieve your goals.",
+      "price": "NDIS Funded",
+      "duration": "Ongoing",
+      "icon": "map",
+      "features": [
+        "Plan understanding",
+        "Provider connections",
+        "Goal planning",
+        "Capacity building",
+        "Advocacy support"
+      ],
+      "image": "https://images.unsplash.com/photo-1516733968668-dbdce39c0651?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Specialist Disability Accommodation",
+      "slug": "specialist-disability-accommodation",
+      "shortDescription": "Purpose-built accessible housing",
+      "description": "Access to high-quality, purpose-built accommodation designed for people with significant functional impairment or high support needs. Our SDA properties feature the latest in accessibility and assistive technology to support independent living.",
+      "price": "NDIS Funded",
+      "duration": "Ongoing",
+      "icon": "building",
+      "features": [
+        "Accessible design",
+        "Assistive technology",
+        "24/7 support available",
+        "Modern facilities",
+        "Location choice"
+      ],
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Employment Support",
+      "slug": "employment-support",
+      "shortDescription": "Support to find and maintain meaningful work",
+      "description": "Our employment support services help participants explore career options, develop job-ready skills, find suitable employment, and receive ongoing support in the workplace. We work with employers to create inclusive opportunities.",
+      "price": "NDIS Funded",
+      "duration": "Flexible",
+      "icon": "briefcase",
+      "features": [
+        "Career planning",
+        "Skills development",
+        "Job searching",
+        "Workplace support",
+        "Employer partnerships"
+      ],
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&h=600&fit=crop"
     }
   ],
   "serviceAreas": [
     {
       "name": "Melbourne",
       "slug": "melbourne",
-      "description": "Located in the heart of Melbourne, we're your local richard school ndis service for autistic  destination."
+      "description": "Located in the heart of Melbourne, we're your local richard school ndis service for autistic destination."
     },
     {
       "name": "Melbourne CBD",
@@ -118,8 +191,8 @@
     {
       "name": "Owner",
       "role": "Founder & Lead Specialist",
-      "bio": "With over 15 years of experience, our founder established richard school ndis service for autistic  to bring world-class ndis services to Melbourne.",
-      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
+      "bio": "With over 15 years of experience, our founder established richard school ndis service for autistic to bring world-class ndis services to Melbourne.",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&h=400&fit=crop",
       "specialties": [
         "Management",
         "Customer Service",
@@ -130,7 +203,7 @@
       "name": "Senior Specialist",
       "role": "Senior Team Member",
       "bio": "Our senior specialist brings 10 years of experience and is known for delivering exceptional results.",
-      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&h=400&fit=crop",
       "specialties": [
         "Expertise",
         "Precision",
@@ -141,7 +214,7 @@
       "name": "Team Member",
       "role": "Specialist",
       "bio": "Passionate about ndis, bringing fresh ideas and excellent service to every client.",
-      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
       "specialties": [
         "Innovation",
         "Quality",
@@ -153,9 +226,9 @@
     {
       "name": "Sarah M.",
       "location": "Melbourne",
-      "text": "I've been coming to richard school ndis service for autistic  for years and wouldn't trust anyone else. The team are true professionals!",
+      "text": "I've been coming to richard school ndis service for autistic for years and wouldn't trust anyone else. The team are true professionals!",
       "rating": 5,
-      "service": "Autism-Specific Support Work",
+      "service": "Daily Living Support",
       "date": "2024-11"
     },
     {
@@ -163,15 +236,15 @@
       "location": "Melbourne",
       "text": "Finally found a ndis that delivers quality every time. Quick, professional, and great value.",
       "rating": 5,
-      "service": "Specialized Therapy Services",
+      "service": "Community Participation",
       "date": "2024-10"
     },
     {
       "name": "Jessica W.",
       "location": "Melbourne",
-      "text": "richard school ndis service for autistic  exceeded all my expectations. The team was professional and the results were amazing!",
+      "text": "richard school ndis service for autistic exceeded all my expectations. The team was professional and the results were amazing!",
       "rating": 5,
-      "service": "Community Access & Social Skills Programs",
+      "service": "Respite Care",
       "date": "2024-09"
     },
     {
@@ -179,7 +252,7 @@
       "location": "Melbourne",
       "text": "Best service in the area. Fair prices and great communication throughout.",
       "rating": 5,
-      "service": "Autism-Specific Support Work",
+      "service": "Daily Living Support",
       "date": "2024-11"
     },
     {
@@ -187,7 +260,7 @@
       "location": "Melbourne",
       "text": "Called for an emergency and they were there within the hour. Couldn't be happier!",
       "rating": 5,
-      "service": "Specialized Therapy Services",
+      "service": "Community Participation",
       "date": "2024-08"
     },
     {
@@ -195,146 +268,146 @@
       "location": "Melbourne",
       "text": "Professional, reliable, and great attention to detail. Highly recommended!",
       "rating": 5,
-      "service": "Community Access & Social Skills Programs",
+      "service": "Respite Care",
       "date": "2024-10"
     }
   ],
   "faq": [
     {
-      "question": "How do I book an appointment?",
-      "answer": "You can book online through our website 24/7, call us on 0490348227 during business hours, or send us a message on social media."
+      "question": "Are you a registered NDIS provider?",
+      "answer": "Yes, richard school ndis service for autistic is a registered NDIS provider. We meet all NDIS Quality and Safeguards Commission requirements and maintain our registration through regular audits and compliance checks."
     },
     {
-      "question": "What is your cancellation policy?",
-      "answer": "We require 24 hours notice for cancellations or rescheduling. Late cancellations may incur a fee. We understand emergencies happen and will always work with you."
+      "question": "How do I access your services?",
+      "answer": "If you have an NDIS plan, contact us for a free consultation. We'll discuss your goals, review your plan, and create a support arrangement tailored to your needs. Call us on 0490348227 or fill out our contact form."
     },
     {
-      "question": "Do you offer free consultations?",
-      "answer": "Yes! We offer complimentary consultations for all our services. This helps us understand your needs and provide an accurate quote."
+      "question": "What if I'm not on the NDIS yet?",
+      "answer": "We can help guide you through the NDIS access process and connect you with resources to apply. We also offer private fee services for those not yet on the NDIS."
+    },
+    {
+      "question": "Can I choose my support workers?",
+      "answer": "Absolutely! We believe the relationship with your support worker is important. We match you with workers based on your preferences, goals, and personality, and you can request changes at any time."
     },
     {
       "question": "What areas do you service?",
-      "answer": "We primarily service Melbourne, Melbourne, and surrounding areas within QLD. Contact us to confirm we cover your location."
+      "answer": "We provide services throughout Melbourne and surrounding areas in VIC. Contact us to confirm coverage in your location."
     },
     {
-      "question": "Is parking available?",
-      "answer": "Yes! Free parking is available near our location. There's also street parking and public transport options nearby."
+      "question": "How are your support workers qualified?",
+      "answer": "All our support workers hold relevant qualifications, current police checks, Working with Children checks, and NDIS Worker Screening. They receive ongoing training in disability support and person-centred practices."
     },
     {
-      "question": "What payment methods do you accept?",
-      "answer": "We accept all major credit cards, EFTPOS, bank transfer, and cash. Payment plans may be available for larger services."
+      "question": "Can you help with plan management?",
+      "answer": "Yes! Our plan management service takes care of all the financial administration of your NDIS plan, including paying providers and tracking your budget, so you can focus on your goals."
     },
     {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes, we are fully licensed and insured. All our team members hold current certifications and undergo regular training."
-    },
-    {
-      "question": "Do you offer warranties on your work?",
-      "answer": "Yes! We stand behind our work with satisfaction guarantees and warranties on applicable services. Ask us for details."
+      "question": "What happens if I need to cancel a service?",
+      "answer": "We understand circumstances change. We ask for 24 hours notice for cancellations where possible. We'll always work with you to reschedule and ensure you receive your support."
     }
   ],
   "about": {
-    "title": "Melbourne's Most Trusted Ndis Since 2021",
-    "story": "Richard School NDIS Service for Autistic is a Melbourne-based specialist disability support provider dedicated to empowering autistic individuals through person-centered, evidence-based services. Founded on the principle that every autistic person deserves respect, understanding, and the opportunity to thrive, we deliver comprehensive NDIS supports that honor neurodiversity while building practical skills for independent living. Our experienced team of qualified support workers, therapists, and plan managers work collaboratively with participants, families, and other professionals to create meaningful outcomes aligned with individual goals and aspirations. We understand that autism presents differently for each person, which is why our services are highly individualized and responsive to unique strengths, challenges, and preferences. At Richard School NDIS Service for Autistic, we're committed to creating inclusive communities where autistic individuals can participate fully, develop their potential, and live fulfilling lives with dignity and choice.",
-    "mission": "Our mission is to deliver exceptional ndis services in a welcoming environment, using sustainable practices and premium products.",
+    "title": "Melbourne's Trusted NDIS Provider Since 2020",
+    "story": "richard school ndis service for autistic was founded in 2020 with a commitment to providing compassionate, person-centred disability support services in Melbourne and surrounding areas.\n\nOur team of qualified support workers are passionate about helping NDIS participants achieve their goals and live their best lives. We believe everyone deserves access to quality support that respects their individual needs, choices, and aspirations.\n\nWhether you need daily living support, community participation, therapy services, or plan management, we're here to support you on your journey.",
+    "mission": "Our mission is to empower NDIS participants through compassionate, person-centred support that promotes independence, choice, and quality of life.",
     "values": [
       {
-        "title": "Excellence",
-        "description": "We never stop learning. Our team regularly trains with industry leaders to stay at the forefront of techniques and trends."
+        "title": "Person-Centred",
+        "description": "We put participants at the heart of everything we do, respecting individual choices and supporting personal goals."
       },
       {
-        "title": "Honesty",
-        "description": "We'll always give you honest advice about what's achievable and what's best for your needs."
+        "title": "Compassionate",
+        "description": "Our team provides caring, understanding support that treats every participant with dignity and respect."
       },
       {
-        "title": "Reliability",
-        "description": "We're committed to showing up on time, every time, and delivering on our promises."
+        "title": "Professional",
+        "description": "All our support workers are qualified, background-checked, and committed to delivering high-quality services."
       }
     ],
     "features": [
-      "Licensed & Fully Insured",
-      "Locally Owned Since 2021",
-      "Quality Guaranteed",
-      "Premium Products & Materials",
-      "Complimentary Consultations",
-      "Easy Parking Available"
+      "NDIS Registered Provider",
+      "Qualified Support Workers",
+      "Person-Centred Approach",
+      "Flexible Service Hours",
+      "Free Initial Consultation",
+      "Serving Melbourne & Surrounds"
     ]
   },
   "gallery": [
     {
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=600&h=600&fit=crop",
       "alt": "Our work - Example 1",
       "category": "Featured"
     },
     {
-      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&h=600&fit=crop",
       "alt": "Our work - Example 2",
       "category": "Recent"
     },
     {
-      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=600&fit=crop",
       "alt": "Our work - Example 3",
       "category": "Featured"
     },
     {
-      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=600&fit=crop",
       "alt": "Our work - Example 4",
       "category": "Recent"
     },
     {
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&h=600&fit=crop",
       "alt": "Our work - Example 5",
       "category": "Featured"
     },
     {
-      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1516733968668-dbdce39c0651?w=600&h=600&fit=crop",
       "alt": "Our work - Example 6",
       "category": "Recent"
     }
   ],
   "seo": {
-    "siteName": "richard school ndis service for autistic  Melbourne",
+    "siteName": "richard school ndis service for autistic Melbourne",
     "siteUrl": "https://richardschoolndisserviceforautistic.com.au",
-    "title": "richard school ndis service for autistic  | Best Ndis Melbourne | Melbourne Ndis",
-    "description": "Melbourne's top-rated ndis in Melbourne. Expert service, premium quality. Award-winning team, competitive prices. Book online today!",
+    "title": "richard school ndis service for autistic | NDIS Provider Melbourne | Disability Support Services Melbourne",
+    "description": "Registered NDIS provider in Melbourne. Compassionate disability support services including daily living, community participation, therapy, and plan management. Contact us today.",
     "keywords": [
-      "ndis melbourne",
-      "ndis melbourne",
-      "best ndis melbourne",
-      "melbourne ndis",
-      "melbourne ndis",
-      "local ndis",
-      "ndis near me",
-      "professional ndis",
-      "ndis services",
-      "QLD ndis"
+      "ndis provider melbourne",
+      "disability support melbourne",
+      "ndis services melbourne",
+      "support workers melbourne",
+      "ndis plan management melbourne",
+      "disability services vic",
+      "ndis registered provider",
+      "community participation ndis",
+      "daily living support melbourne",
+      "disability support near me"
     ]
   },
   "schema": {
-    "type": "LocalBusiness",
+    "type": "HealthAndBeautyBusiness",
     "priceRange": "$$"
   },
   "colors": {
-    "primary": "#2563eb",
-    "primaryLight": "#3b82f6",
-    "secondary": "#1f2937",
-    "accent": "#f59e0b"
+    "primary": "#7c3aed",
+    "primaryLight": "#8b5cf6",
+    "secondary": "#1e1b4b",
+    "accent": "#10b981"
   },
   "images": {
-    "hero": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&h=1080&fit=crop",
-    "about": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=600&fit=crop"
+    "hero": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=1920&h=1080&fit=crop",
+    "about": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800&h=600&fit=crop"
   },
   "copy": {
-    "heroSubtitle": "Professional ndis services with quality results guaranteed.",
-    "servicesSubtitle": "From routine maintenance to specialized services, our expert team delivers exceptional results.",
-    "teamTitle": "Meet Our Team",
-    "teamSubtitle": "Experienced professionals dedicated to delivering quality ndis services.",
-    "ctaTitle": "Ready for Professional Ndis?",
-    "ctaSubtitle": "Get a free quote today and experience the richard school ndis service for autistic  difference."
+    "heroSubtitle": "Compassionate NDIS support services helping you achieve your goals and live life your way.",
+    "servicesSubtitle": "Comprehensive disability support services tailored to your individual needs and NDIS plan.",
+    "teamTitle": "Meet Our Support Team",
+    "teamSubtitle": "Caring, qualified professionals dedicated to supporting you on your journey.",
+    "ctaTitle": "Ready to Start Your NDIS Journey?",
+    "ctaSubtitle": "Contact us today for a free consultation to discuss how we can support you."
   },
   "cta": {
-    "primary": "Book Online",
-    "secondary": "Call Now",
+    "primary": "Get Support",
+    "secondary": "Call Us",
     "consultation": "Free Consultation"
   }
 }
