@@ -85,9 +85,9 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <span className="text-brand font-semibold tracking-wide uppercase text-sm">Our Team</span>
-            <h2 className="text-3xl font-bold text-gray-900 mt-2">{(content as any).copy?.teamTitle || 'Meet Our Team'}</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mt-2">{content.copy?.teamTitle || 'Meet Our Team'}</h2>
             <p className="text-gray-600 mt-4 max-w-2xl mx-auto">
-              {(content as any).copy?.teamSubtitle || 'Our talented team brings together diverse skills and experiences to deliver exceptional results for every client.'}
+              {content.copy?.teamSubtitle || `Our talented team brings together diverse skills and experiences to deliver exceptional results for every client.`}
             </p>
           </div>
 
@@ -141,12 +141,12 @@ export default function AboutPage() {
       {/* CTA */}
       <section className="py-16 bg-brand">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-bold text-white mb-4">{(content as any).copy?.ctaTitle || 'Ready to Get Started?'}</h2>
+          <h2 className="text-3xl font-bold text-white mb-4">Ready to Get Started?</h2>
           <p className="text-white/90 mb-8">
-            {(content as any).copy?.ctaSubtitle || 'Contact us today for a free quote.'}
+            Contact us today for a free quote.
           </p>
           <Link href="/contact" className="inline-flex items-center justify-center gap-2 bg-white text-brand px-8 py-4 rounded-full text-lg font-semibold hover:shadow-xl transition-all">
-            {(content as any).cta?.consultation || 'Get a Free Quote'}
+            Get a Free Quote
           </Link>
         </div>
       </section>
