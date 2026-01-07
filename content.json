@@ -1,0 +1,340 @@
+{
+  "business": {
+    "name": "richard school ndis service for autistic ",
+    "tagline": "Empowering autistic individuals through specialized NDIS support services tailored for growth, independence and meaningful community participation",
+    "phone": "0490348227",
+    "email": "rfan27788@gmail.com",
+    "address": "123 Main Street, Melbourne",
+    "suburb": "Melbourne",
+    "city": "Melbourne",
+    "state": "QLD",
+    "postcode": "4000",
+    "country": "Australia",
+    "service": "Ndis",
+    "serviceSlug": "ndis",
+    "abn": "12 345 678 901",
+    "established": 2021,
+    "openingHours": {
+      "monday": "9:00 AM - 5:00 PM",
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/richardschoolndisserviceforautistic",
+      "instagram": "https://instagram.com/richardschoolndisserviceforautistic",
+      "google": "https://g.page/richardschoolndisserviceforautistic"
+    }
+  },
+  "services": [
+    {
+      "title": "Autism-Specific Support Work",
+      "slug": "autism-specific-support-work",
+      "shortDescription": "Our qualified support workers provide personalized assistance with daily living activities, social s...",
+      "description": "Our qualified support workers provide personalized assistance with daily living activities, social skills development, and community access specifically designed for autistic individuals. We focus on building independence while respecting sensory needs and communication preferences. Our team uses evidence-based approaches to support your unique goals and routines.",
+      "price": "From $56.48/hour",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Specialized Therapy Services",
+      "slug": "specialized-therapy-services",
+      "shortDescription": "Comprehensive therapy programs including occupational therapy, speech pathology, and behavioral inte...",
+      "description": "Comprehensive therapy programs including occupational therapy, speech pathology, and behavioral intervention delivered by autism-specialized practitioners. Sessions are tailored to individual sensory profiles and learning styles to maximize therapeutic outcomes. We work collaboratively with participants and families to achieve meaningful progress.",
+      "price": "From $232.99/hour",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Community Access & Social Skills Programs",
+      "slug": "community-access-social-skills-programs",
+      "shortDescription": "Structured community participation programs that build social confidence and life skills in real-wor...",
+      "description": "Structured community participation programs that build social confidence and life skills in real-world settings. Our programs include group activities, community outings, and peer support opportunities designed specifically for autistic participants. We create safe, supportive environments that encourage social connection and personal growth.",
+      "price": "From $56.48/hour",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Plan Management Services",
+      "slug": "plan-management-services",
+      "shortDescription": "Professional NDIS plan management that handles all financial administration, provider payments, and ...",
+      "description": "Professional NDIS plan management that handles all financial administration, provider payments, and budget monitoring for your supports. We provide regular budget reports and work closely with you to maximize your plan's value. Our team ensures compliance with NDIS requirements while giving you choice and control over your services.",
+      "price": "From $79.19/hour",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Assistive Technology Assessment & Support",
+      "slug": "assistive-technology-assessment-support",
+      "shortDescription": "Comprehensive assessment and implementation of assistive technologies that enhance communication, in...",
+      "description": "Comprehensive assessment and implementation of assistive technologies that enhance communication, independence, and quality of life for autistic individuals. We provide ongoing training and support to ensure successful adoption of recommended technologies. Our assessments consider individual needs, preferences, and environmental factors.",
+      "price": "Quote-based pricing",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Capacity Building & Life Skills Training",
+      "slug": "capacity-building-life-skills-training",
+      "shortDescription": "Intensive skill development programs focusing on independent living, employment readiness, and perso...",
+      "description": "Intensive skill development programs focusing on independent living, employment readiness, and personal development goals. Our structured approach breaks down complex skills into manageable steps, using visual supports and clear routines. We celebrate every achievement while building toward greater autonomy and self-determination.",
+      "price": "From $62.13/hour",
+      "duration": "Varies",
+      "icon": "star",
+      "features": [],
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+    }
+  ],
+  "serviceAreas": [
+    {
+      "name": "Melbourne",
+      "slug": "melbourne",
+      "description": "Located in the heart of Melbourne, we're your local richard school ndis service for autistic  destination."
+    },
+    {
+      "name": "Melbourne CBD",
+      "slug": "melbourne-cbd",
+      "description": "Serving the Melbourne CBD with exceptional service and quality."
+    },
+    {
+      "name": "Surrounding Areas",
+      "slug": "surrounding-areas",
+      "description": "We proudly serve Melbourne and all surrounding suburbs."
+    }
+  ],
+  "team": [
+    {
+      "name": "Owner",
+      "role": "Founder & Lead Specialist",
+      "bio": "With over 15 years of experience, our founder established richard school ndis service for autistic  to bring world-class ndis services to Melbourne.",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
+      "specialties": [
+        "Management",
+        "Customer Service",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Senior Specialist",
+      "role": "Senior Team Member",
+      "bio": "Our senior specialist brings 10 years of experience and is known for delivering exceptional results.",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
+      "specialties": [
+        "Expertise",
+        "Precision",
+        "Customer Care"
+      ]
+    },
+    {
+      "name": "Team Member",
+      "role": "Specialist",
+      "bio": "Passionate about ndis, bringing fresh ideas and excellent service to every client.",
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+      "specialties": [
+        "Innovation",
+        "Quality",
+        "Reliability"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "location": "Melbourne",
+      "text": "I've been coming to richard school ndis service for autistic  for years and wouldn't trust anyone else. The team are true professionals!",
+      "rating": 5,
+      "service": "Autism-Specific Support Work",
+      "date": "2024-11"
+    },
+    {
+      "name": "David N.",
+      "location": "Melbourne",
+      "text": "Finally found a ndis that delivers quality every time. Quick, professional, and great value.",
+      "rating": 5,
+      "service": "Specialized Therapy Services",
+      "date": "2024-10"
+    },
+    {
+      "name": "Jessica W.",
+      "location": "Melbourne",
+      "text": "richard school ndis service for autistic  exceeded all my expectations. The team was professional and the results were amazing!",
+      "rating": 5,
+      "service": "Community Access & Social Skills Programs",
+      "date": "2024-09"
+    },
+    {
+      "name": "Amanda C.",
+      "location": "Melbourne",
+      "text": "Best service in the area. Fair prices and great communication throughout.",
+      "rating": 5,
+      "service": "Autism-Specific Support Work",
+      "date": "2024-11"
+    },
+    {
+      "name": "Sophie B.",
+      "location": "Melbourne",
+      "text": "Called for an emergency and they were there within the hour. Couldn't be happier!",
+      "rating": 5,
+      "service": "Specialized Therapy Services",
+      "date": "2024-08"
+    },
+    {
+      "name": "Rachel G.",
+      "location": "Melbourne",
+      "text": "Professional, reliable, and great attention to detail. Highly recommended!",
+      "rating": 5,
+      "service": "Community Access & Social Skills Programs",
+      "date": "2024-10"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How do I book an appointment?",
+      "answer": "You can book online through our website 24/7, call us on 0490348227 during business hours, or send us a message on social media."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "We require 24 hours notice for cancellations or rescheduling. Late cancellations may incur a fee. We understand emergencies happen and will always work with you."
+    },
+    {
+      "question": "Do you offer free consultations?",
+      "answer": "Yes! We offer complimentary consultations for all our services. This helps us understand your needs and provide an accurate quote."
+    },
+    {
+      "question": "What areas do you service?",
+      "answer": "We primarily service Melbourne, Melbourne, and surrounding areas within QLD. Contact us to confirm we cover your location."
+    },
+    {
+      "question": "Is parking available?",
+      "answer": "Yes! Free parking is available near our location. There's also street parking and public transport options nearby."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, EFTPOS, bank transfer, and cash. Payment plans may be available for larger services."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes, we are fully licensed and insured. All our team members hold current certifications and undergo regular training."
+    },
+    {
+      "question": "Do you offer warranties on your work?",
+      "answer": "Yes! We stand behind our work with satisfaction guarantees and warranties on applicable services. Ask us for details."
+    }
+  ],
+  "about": {
+    "title": "Melbourne's Most Trusted Ndis Since 2021",
+    "story": "Richard School NDIS Service for Autistic is a Melbourne-based specialist disability support provider dedicated to empowering autistic individuals through person-centered, evidence-based services. Founded on the principle that every autistic person deserves respect, understanding, and the opportunity to thrive, we deliver comprehensive NDIS supports that honor neurodiversity while building practical skills for independent living. Our experienced team of qualified support workers, therapists, and plan managers work collaboratively with participants, families, and other professionals to create meaningful outcomes aligned with individual goals and aspirations. We understand that autism presents differently for each person, which is why our services are highly individualized and responsive to unique strengths, challenges, and preferences. At Richard School NDIS Service for Autistic, we're committed to creating inclusive communities where autistic individuals can participate fully, develop their potential, and live fulfilling lives with dignity and choice.",
+    "mission": "Our mission is to deliver exceptional ndis services in a welcoming environment, using sustainable practices and premium products.",
+    "values": [
+      {
+        "title": "Excellence",
+        "description": "We never stop learning. Our team regularly trains with industry leaders to stay at the forefront of techniques and trends."
+      },
+      {
+        "title": "Honesty",
+        "description": "We'll always give you honest advice about what's achievable and what's best for your needs."
+      },
+      {
+        "title": "Reliability",
+        "description": "We're committed to showing up on time, every time, and delivering on our promises."
+      }
+    ],
+    "features": [
+      "Licensed & Fully Insured",
+      "Locally Owned Since 2021",
+      "Quality Guaranteed",
+      "Premium Products & Materials",
+      "Complimentary Consultations",
+      "Easy Parking Available"
+    ]
+  },
+  "gallery": [
+    {
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 1",
+      "category": "Featured"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 2",
+      "category": "Recent"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 3",
+      "category": "Featured"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 4",
+      "category": "Recent"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 5",
+      "category": "Featured"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&h=600&fit=crop",
+      "alt": "Our work - Example 6",
+      "category": "Recent"
+    }
+  ],
+  "seo": {
+    "siteName": "richard school ndis service for autistic  Melbourne",
+    "siteUrl": "https://richardschoolndisserviceforautistic.com.au",
+    "title": "richard school ndis service for autistic  | Best Ndis Melbourne | Melbourne Ndis",
+    "description": "Melbourne's top-rated ndis in Melbourne. Expert service, premium quality. Award-winning team, competitive prices. Book online today!",
+    "keywords": [
+      "ndis melbourne",
+      "ndis melbourne",
+      "best ndis melbourne",
+      "melbourne ndis",
+      "melbourne ndis",
+      "local ndis",
+      "ndis near me",
+      "professional ndis",
+      "ndis services",
+      "QLD ndis"
+    ]
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "priceRange": "$$"
+  },
+  "colors": {
+    "primary": "#2563eb",
+    "primaryLight": "#3b82f6",
+    "secondary": "#1f2937",
+    "accent": "#f59e0b"
+  },
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&h=1080&fit=crop",
+    "about": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=600&fit=crop"
+  },
+  "copy": {
+    "heroSubtitle": "Professional ndis services with quality results guaranteed.",
+    "servicesSubtitle": "From routine maintenance to specialized services, our expert team delivers exceptional results.",
+    "teamTitle": "Meet Our Team",
+    "teamSubtitle": "Experienced professionals dedicated to delivering quality ndis services.",
+    "ctaTitle": "Ready for Professional Ndis?",
+    "ctaSubtitle": "Get a free quote today and experience the richard school ndis service for autistic  difference."
+  },
+  "cta": {
+    "primary": "Book Online",
+    "secondary": "Call Now",
+    "consultation": "Free Consultation"
+  }
+}
